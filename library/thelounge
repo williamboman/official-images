@@ -1,0 +1,11 @@
+Maintainers: William Boman <william+thelounge@redwill.se> (@williamboman)
+GitRepo: https://github.com/thelounge/docker-lounge.git
+GitCommit: 7b02a0aa1a7872e0427eed4436d5f9747638f0bf
+
+Tags: 2.7.1, 2.7, latest
+Architectures: amd64, ppc64le, s390x, arm64v8, arm32v7, i386
+Directory: full
+
+Tags: 2.7.1-alpine, 2.7-alpine, alpine
+Architectures: amd64
+Directory: alpine
